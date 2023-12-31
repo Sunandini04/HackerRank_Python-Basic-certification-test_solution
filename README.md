@@ -1,17 +1,22 @@
-## HackerRank_Python(Basic) certification test_solution
+# HackerRank_Python(Basic) certification test_solution
 
 Introductory coding challenges on HackerRank.
 
 Ideal for beginners in programming.
 
+
 ## Topics
 
-FizzBuzz
+[FizzBuzz]()
 
-Missing Characters
+[Missing Characters]()
 
-Reverse Word and Swap case
+[Reverse Word and Swap case]()
 
-Shape classes with area
+[Shape classes with area]()
 
-String representation of objects
+[String representation of objects]()
+
+
+
+
